@@ -1,0 +1,1 @@
+https://api.openweathermap.org/data/2.5/weather?q=kushtia&appid=2664959b966d4fd9c6f0ba6fc9f66979
